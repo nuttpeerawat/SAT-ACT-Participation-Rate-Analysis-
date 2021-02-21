@@ -4,8 +4,9 @@
 
 After the new SAT was released in 2016, it was found that some states were more likely to switch the standardized test to the SAT. The purpose of this project is to explore states that have converted to SAT with participation rate at 100% to look for what happens after they have changed.
 
-**Executive Summary**
+# Executive Summary
 
+To explore the participation rate of SAT and ACT, I used SAT and ACT datasets in 2017, 2018 and 2019. These dataset contains participation rate and all part of test score  in each US states. This project aims to explore the participation rate for SAT in each states after the new SAT has been released. Now, some states have switched from ACT to SAT, so I'm curious to find out how that change affects scores in that state. I also use an outside research in this analyze.
 
 -----------------------------------------
 # Data Dictionary
