@@ -1,6 +1,7 @@
 # SAT-ACT-Participation-Rate-Analysis-
 -----------------------------------------
-**Problem Statement**
+# Problem Statement
+
 After the new SAT was released in 2016, it was found that some states were more likely to switch the standardized test to the SAT. The purpose of this project is to explore states that have converted to SAT with participation rate at 100% to look for what happens after they have changed.
 
 **Executive Summary**
@@ -44,7 +45,7 @@ After the new SAT was released in 2016, it was found that some states were more 
 |composite_19      | float        | sat_all           |Average ACT Composite Score in 2019         |
 
 -----------------------------------------------------------------------------------------------------
-# Outside Research**
+# Outside Research
 
 **Colorado**
    
@@ -70,3 +71,13 @@ After the new SAT was released in 2016, it was found that some states were more 
 - https://www.coloradokids.org/wp-content/uploads/2016/01/ACTvsSAT_FINAL.pdf
 - https://opus.govst.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1333&context=capstones
 - https://www.wsaz.com/content/news/All-WVa-high-school-juniors-to-begin-taking-SAT-exam-beginning-Spring-2018-444248263.html
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+# Conclusions and Recommendations
+
+Some states like Colorado, Illinois and West Virginia change their test from ACT to SAT in recent years for the reason that the test aligned to their academic standard. However, when we look at the score test for each state,it is found that after they have changed to SAT their SAT score in each part are decreasing in each year. In other hand, when we look at ACT composite score for these three states found that their composite score are increasing in each year.
+
+This might be because of the participation rate that has negative correlation with the score, which mean that if the participation rate is increasing the test score will decreasing. This negative correlation have in both SAT and ACT test.
+
+As we all know, these three states have been running the ACT test for a long time, switching to a different test can make students feel unfamiliar and result in a lower scores. Therefore, I would suggest that if any states want to change the standardized test, they should have a program that will make their student ready for a new kind of test.
+
