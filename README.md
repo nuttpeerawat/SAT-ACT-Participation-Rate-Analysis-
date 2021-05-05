@@ -1,4 +1,4 @@
-# SAT-ACT-Participation-Rate-Analysis-
+# DSI Project 1: SAT-ACT-Participation-Rate-Analysis-
 -----------------------------------------
 # Problem Statement
 
